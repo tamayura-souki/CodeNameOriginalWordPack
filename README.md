@@ -1,0 +1,2 @@
+# CodeNameOriginalWordPack
+コードネームオンラインで使うワードパック用のリポジトリ
